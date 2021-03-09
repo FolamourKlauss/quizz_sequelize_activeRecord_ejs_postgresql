@@ -1,5 +1,5 @@
 {
-  "name": "OQuizz",
+  "name": "Quizz",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/O-clock-FS-JS/OQuizz.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/O-clock-FS-JS/OQuizz/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/O-clock-FS-JS/OQuizz#readme"
+  "homepage": ""
 }
